@@ -6,7 +6,7 @@ ue5 1:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2F
   description: Searches the entire UE5 documentation. (via duckduckgo)
   example:
-  - arguments: world partitioning
+  - arguments: 'world partitioning'
     description: Search for "world partitioning" in UE5 documentation
   tags:
   - ue
