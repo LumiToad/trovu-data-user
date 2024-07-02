@@ -31,7 +31,7 @@ ue5_bp 1:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2FBlueprintAPI%2
   description: Tries to search Unreal Engine 5 Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
     include:
-    key: ue5
+      key: ue5
 ue4 1:
   title: Unreal Engine 5
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2F
@@ -53,7 +53,7 @@ ue4_cpp 1:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2FAPI%2F
   description: Tries to search Unreal Engine 4.27 C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
     include:
-    key: ue4
+      key: ue4
 ue4_cpp 2:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2FAPI%2F
   description: Tries to search Unreal Engine 4(.x) C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
