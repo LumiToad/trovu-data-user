@@ -13,8 +13,8 @@ ue5 1:
   - epic
   - epicgames
   example:
-  - arguments: 'world partitioning'
-    description: Search for "world partitioning" in UE5 documentation
+  - arguments: "worldpartitioning"
+    description: Search for "worldpartitioning" in UE5 documentation
 ue5_cpp 1:
   title: Unreal Engine 5 C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2FAPI%2
