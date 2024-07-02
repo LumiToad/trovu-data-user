@@ -14,16 +14,16 @@ ue5 1:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2F
 ue5 2: 
   title: Unreal Engine 5.x
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine?application_version=5.<version>%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine?application_version=5<version>%2F
 ue5_cpp 1:
   title: Unreal Engine 5 C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FAPI%2
 ue5_cpp 2:
   title: Unreal Engine 5.x C++
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FAPI?application_version=5.<version>%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FAPI?application_version=5<version>%2F
 ue5_bp 1:
   title: Unreal Engine 5 Blueprint
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FBlueprintAPI%2
 ue5_bp 2:
   title: Unreal Engine 5.x Blueprint
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FBlueprintAPI?application_version=5.<version>%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FBlueprintAPI?application_version=5<version>%2F
