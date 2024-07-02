@@ -11,18 +11,24 @@ examplekeyword 2:
   - example
 ue5 1: 
   title: Unreal Engine 5
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2F
 ue5_cpp 1:
   title: Unreal Engine 5 C++
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FAPI%2
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2FAPI%2
 ue5_bp 1:
   title: Unreal Engine 5 Blueprint
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FBlueprintAPI%2
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2FBlueprintAPI%2
 ue4 1:
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2Fen-us%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2F
 ue4 2:
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2Fen-us%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2F
 ue4_cpp 1:
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2Fen-us%2FAPI%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2FAPI%2F
 ue4_cpp 2:
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2Fen-us%2FAPI%2F
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2FAPI%2F
+ue4_bp 1:
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2FBlueprintAPI%2F
+ue4_bp 2:
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2FBlueprintAPI%2F
+ue_prop 1:
+  url: https://benui.ca/unreal/uproperty/#<uproperty>
