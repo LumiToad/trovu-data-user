@@ -7,7 +7,7 @@ ue5 1:
   description: Searches the entire UE5 documentation. (via duckduckgo)
   example:
   - arguments: world partitioning
-      description: Search for "world partitioning" in UE5 documentation
+    description: Search for "world partitioning" in UE5 documentation
   tags:
   - ue
   - ue5
@@ -21,7 +21,7 @@ ue5_cpp 1:
   description: Tries to search Unreal Engine 5 C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
   example:
   - arguments: aactor
-      description: Search for "aactor" in UE5 C++ scripting API
+    description: Search for "aactor" in UE5 C++ scripting API
   tags:
   - ue
   - ue5
@@ -35,7 +35,7 @@ ue5_bp 1:
   description: Tries to search Unreal Engine 5 Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
   example:
   - arguments: actor
-      description: Search for "actor" in UE5 Blueprint API
+    description: Search for "actor" in UE5 Blueprint API
   tags:
   - ue
   - ue5
@@ -49,7 +49,7 @@ ue4 1:
   description: Searches the entire UE4.27 documentation. (via duckduckgo)
   example:
   - arguments: actor
-      description: Search for "actor" in UE4 documentation
+    description: Search for "actor" in UE4 documentation
   tags:
   - ue
   - ue4
@@ -62,7 +62,7 @@ ue4 2:
   description: Searches the entire UE4(.x) documentation. (via duckduckgo)
   example:
   - arguments: actor, .26
-      description: Search for "actor" in UE4.26 documentation
+    description: Search for "actor" in UE4.26 documentation
   tags:
   - ue
   - ue4
@@ -76,7 +76,7 @@ ue4_cpp 1:
   description: Tries to search Unreal Engine 4.27 C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
   example:
   - arguments: aactor
-      description: Search for "aactor" in UE4 C++ scripting API
+    description: Search for "aactor" in UE4 C++ scripting API
   tags:
   - ue
   - ue4
@@ -90,7 +90,7 @@ ue4_cpp 2:
   description: Tries to search Unreal Engine 4(.x) C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
   example:
   - arguments: aactor, .26
-      description: Search for "aactor" in UE4.26 C++ scripting API
+    description: Search for "aactor" in UE4.26 C++ scripting API
   tags:
   - ue
   - ue4
@@ -104,7 +104,7 @@ ue4_bp 1:
   description: Tries to search Unreal Engine 4(.x) Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
   example:
   - arguments: actor
-      description: Search for "actor" in UE4 Blueprint API
+    description: Search for "actor" in UE4 Blueprint API
   tags:
   - ue
   - ue4
@@ -118,7 +118,7 @@ ue4_bp 2:
   description: Tries to search Unreal Engine 4(.x) Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
   example:
   - arguments: actor, .26
-      description: Search for "actor" in UE4.26 Blueprint API
+    description: Search for "actor" in UE4.26 Blueprint API
   tags:
   - ue
   - ue4
@@ -132,7 +132,7 @@ ue_prop 1:
   description: Searches for a UProperty specifier. Enter exact name!
   example:
   - arguments: editanywhere
-      description: Search for "editanywhere" UPROPERTY
+    description: Search for "editanywhere" UPROPERTY
   tags:
   - ue
   - uproperty
