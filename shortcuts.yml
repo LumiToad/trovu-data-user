@@ -126,10 +126,10 @@ ue4_bp 2:
   examples:
   - arguments: actor, .26
     description: Search for "actor" in UE4.26 Blueprint API
-ue_prop 1:
-  title: Unreal Engine UProperties
+ue_uprop 1:
+  title: Unreal Engine UPROPERTY
   url: https://benui.ca/unreal/uproperty/#<uproperty>
-  description: Searches for a UProperty specifier. Enter exact name!
+  description: Searches for a UPROPERTY specifier. Enter exact name!
   tags:
   - ue
   - uproperty
@@ -142,3 +142,19 @@ ue_prop 1:
   examples:
   - arguments: editanywhere
     description: Search for "editanywhere" UPROPERTY
+ue_ufunc 1:
+  title: Unreal Engine UFUNCTION
+  url: https://benui.ca/unreal/ufunction/#<ufunction>
+  description: Searches for a UFUNCTION specifier. Enter exact name!
+  tags:
+  - ue
+  - uproperty
+  - property
+  - meta
+  - unreal
+  - unreal engine
+  - epic
+  - epicgames
+  examples:
+  - arguments: blueprintcallable
+    description: Search for "blueprintcallable" UFUNCTION
