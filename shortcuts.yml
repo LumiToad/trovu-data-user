@@ -9,21 +9,21 @@ examplekeyword 2:
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
   tags:
   - example
-ue5 0: 
+ue5 1: 
   title: Unreal Engine 5
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2F
-ue5 1: 
+ue5 2: 
   title: Unreal Engine 5.x
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2F?application_version=5<puery>%2F
-ue5_cpp 0:
+ue5_cpp 1:
   title: Unreal Engine 5 C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FAPI%2
-ue5_cpp 1:
+ue5_cpp 2:
   title: Unreal Engine 5.x C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FAPI%2?application_version=5<puery>%2F
-ue5_bp 0:
+ue5_bp 1:
   title: Unreal Engine 5 Blueprint
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FBlueprintAPI%2
-ue5_bp 1:
+ue5_bp 2:
   title: Unreal Engine 5.x Blueprint
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2FBlueprintAPI%2?application_version=5<puery>%2F
