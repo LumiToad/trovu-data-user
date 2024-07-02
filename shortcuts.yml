@@ -23,6 +23,6 @@ ue4 1:
 ue4 2:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2Fen-us%2F
 ue4_cpp 1:
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2Fen-us%2FProgrammingAndScripting%2FProgrammingWithCPP%2
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2Fen-us%2FAPI%2F
 ue4_cpp 2:
-  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2Fen-us%2FProgrammingAndScripting%2FProgrammingWithCPP%2
+  url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2Fen-us%2FAPI%2F
