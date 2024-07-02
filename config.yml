@@ -4,8 +4,8 @@ namespaces:
 - o
 - en
 - .us
-- github: .
-  name: my
+- github: LumiToad
+  name: Lumi
 # defaultKeyword: g 
 language: en
 country: us
