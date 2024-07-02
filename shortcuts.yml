@@ -1,18 +1,13 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
-  url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
-  tags:
-  - example
 ue5 1: 
   title: Unreal Engine 5
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2F
   description: Searches the entire UE5 documentation. (via duckduckgo)
+  example:
+  - arguments: world partitioning
+      description: Search for "world partitioning" in UE5 documentation
   tags:
   - ue
   - ue5
@@ -24,6 +19,9 @@ ue5_cpp 1:
   title: Unreal Engine 5 C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2FAPI%2
   description: Tries to search Unreal Engine 5 C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
+  example:
+  - arguments: aactor
+      description: Search for "aactor" in UE5 C++ scripting API
   tags:
   - ue
   - ue5
@@ -35,6 +33,9 @@ ue5_bp 1:
   title: Unreal Engine 5 Blueprint
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2F<$language>-<$country>%2Funreal-engine%2FBlueprintAPI%2
   description: Tries to search Unreal Engine 5 Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
+  example:
+  - arguments: actor
+      description: Search for "actor" in UE5 Blueprint API
   tags:
   - ue
   - ue5
@@ -46,6 +47,9 @@ ue4 1:
   title: Unreal Engine 5
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2F
   description: Searches the entire UE4.27 documentation. (via duckduckgo)
+  example:
+  - arguments: actor
+      description: Search for "actor" in UE4 documentation
   tags:
   - ue
   - ue4
@@ -56,6 +60,9 @@ ue4 1:
 ue4 2:
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2F
   description: Searches the entire UE4(.x) documentation. (via duckduckgo)
+  example:
+  - arguments: actor, .26
+      description: Search for "actor" in UE4.26 documentation
   tags:
   - ue
   - ue4
@@ -67,6 +74,9 @@ ue4_cpp 1:
   title: Unreal Engine 4 C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2FAPI%2F
   description: Tries to search Unreal Engine 4.27 C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
+  example:
+  - arguments: aactor
+      description: Search for "aactor" in UE4 C++ scripting API
   tags:
   - ue
   - ue4
@@ -78,6 +88,9 @@ ue4_cpp 2:
   title: Unreal Engine 4 C++
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2FAPI%2F
   description: Tries to search Unreal Engine 4(.x) C++ documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
+  example:
+  - arguments: aactor, .26
+      description: Search for "aactor" in UE4.26 C++ scripting API
   tags:
   - ue
   - ue4
@@ -89,6 +102,9 @@ ue4_bp 1:
   title: Unreal Engine 4 Blueprint
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4.27%2F<$language>-<$country>%2FBlueprintAPI%2F
   description: Tries to search Unreal Engine 4(.x) Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
+  example:
+  - arguments: actor
+      description: Search for "actor" in UE4 Blueprint API
   tags:
   - ue
   - ue4
@@ -100,6 +116,9 @@ ue4_bp 2:
   title: Unreal Engine 4 Blueprint
   url: https://duckduckgo.com/?q=%5C<query>+inurl%3Adocs.unrealengine.com%2F4<version>%2F<$language>-<$country>%2FBlueprintAPI%2F
   description: Tries to search Unreal Engine 4(.x) Blueprint documentation only. Enter exact name! [class, struct, method, etc...] (via duckduckgo)
+  example:
+  - arguments: actor, .26
+      description: Search for "actor" in UE4.26 Blueprint API
   tags:
   - ue
   - ue4
@@ -111,6 +130,9 @@ ue_prop 1:
   title: Unreal Engine UProperties
   url: https://benui.ca/unreal/uproperty/#<uproperty>
   description: Searches for a UProperty specifier. Enter exact name!
+  example:
+  - arguments: editanywhere
+      description: Search for "editanywhere" UPROPERTY
   tags:
   - ue
   - uproperty
